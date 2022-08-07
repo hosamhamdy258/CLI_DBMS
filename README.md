@@ -12,7 +12,7 @@
 - Clean interface 
 - Create DataBases,Tables
 - insert,update,delete records effectively
-- select to show records with multiable ways
+- select to show records with multiple ways
 
 
 ## Installation & Run Locally
